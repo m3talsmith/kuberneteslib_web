@@ -1,6 +1,6 @@
 name: kuberneteslib_web
 description: A library that implements the Kubernetes API natively. It is written using the direct specs and currently covers most of the V1 Core, Apps, and Batch resources.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/m3talsmith/kuberneteslib_web
 
 environment:
